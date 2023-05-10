@@ -1,7 +1,7 @@
 {
     "configurations": [
     {
-        "name": "Rails server",
+        "name": "Rails server..",
         "type": "Ruby",
         "request": "launch",
         "program": "${workspaceRoot}/bin/rails",
